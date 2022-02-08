@@ -1,5 +1,5 @@
 # hola-mundo
-test repository.
+testing.
 
 Autor: Antonio Valdivia.
 Fecha: 8 de febrero.
