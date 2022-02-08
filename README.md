@@ -1,2 +1,5 @@
 # hola-mundo
-test repository
+test repository.
+
+Autor: Antonio Valdivia.
+Fecha: 8 de febrero.
